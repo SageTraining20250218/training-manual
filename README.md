@@ -8,7 +8,7 @@ The content is all written in [Markdown](https://guides.github.com/features/mast
 
 ## Technologies used
 
-This manual is served using GitHub Pages and [docsify](https://docsify.js.org), and can be found at [githubtraining.github.io/training-manual](https://githubtraining.github.io/training-manual/#/).
+This manual is served using GitHub Pages and [docsify](https://docsify.js.org), and can be found at [githubtraining.github.io/training-manual](https://github.com/SageTraining20250218/training-manual/blob/main/docs/index.html).
 
 ## Goals and scope
 
